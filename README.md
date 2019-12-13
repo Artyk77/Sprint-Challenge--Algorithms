@@ -22,7 +22,7 @@ Commit your code regularly and meaningfully. This helps both you (in case you ev
 
 This Sprint Challenge is split into two separate parts that test your ability to analyze and write algorithms.
 
-### Short Answer Questions 
+### Short Answer Questions  
 
  > It is recommended that you spend no more than 1 hour on this portion of the Sprint Challenge.
 
@@ -91,7 +91,11 @@ Inside the `robot_sort` directory you'll find the `robot_sort.py` file. Open it 
 
 * We discussed a sorting method this week that might be useful. Which one?
 
+RESPONSE
+
 * The robot has exactly one bit of memory: its light. Why is this important?
+
+RESPONSE
 
 Run `python test_robot.py` to run the tests for your `robot_sort()` function to ensure that your implementation is correct.
 
