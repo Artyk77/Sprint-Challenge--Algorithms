@@ -91,7 +91,11 @@ Inside the `robot_sort` directory you'll find the `robot_sort.py` file. Open it 
 
 * We discussed a sorting method this week that might be useful. Which one?
 
+RESPONSE
+
 * The robot has exactly one bit of memory: its light. Why is this important?
+
+RESPONSE
 
 Run `python test_robot.py` to run the tests for your `robot_sort()` function to ensure that your implementation is correct.
 
